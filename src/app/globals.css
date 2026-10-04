@@ -38,3 +38,4 @@ main{overflow-x:clip}
 .motion-ready .reveal[data-variant=image]{clip-path:none;transform:translate3d(0,24px,0) scale(.975)}
 .motion-ready .reveal[data-variant=image].is-visible{transform:translate3d(0,0,0) scale(1)}
 html[data-theme=dark] img[src$="/tech/nextjs.svg"],html[data-theme=dark] img[src$="/tech/express.svg"]{filter:invert(1)}
+.company-mark.company-logo{width:104px;height:52px;background:transparent;border-radius:0;box-shadow:none}.company-mark.company-logo-wide{width:132px}.company-logo img{display:block;width:100%;height:100%;object-fit:contain;object-position:left center}@media(max-width:480px){.company-mark.company-logo{width:82px;height:44px}.company-mark.company-logo-wide{width:108px}}
